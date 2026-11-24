@@ -21,17 +21,26 @@ struct ingeniero ignacio = {
 <table>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/Ignacio-Aranda/glisa"><img src="assets/glisa.png" alt="Glisa: configura ratones y teclados Logitech"></a>
+      <h3><a href="https://github.com/Ignacio-Aranda/glisa">Glisa</a></h3>
+      <p>Configura ratones y teclados Logitech en Linux, Windows y macOS: botones, gestos, DPI y Flow para usar un ratón entre varios ordenadores. Alternativa libre a Logi Options+.</p>
+      <p><code>Rust</code> <code>Tauri</code> <code>Svelte</code> <code>HID++</code></p>
+    </td>
+    <td width="50%" valign="top">
       <a href="https://github.com/Ignacio-Aranda/pauta"><img src="assets/pauta.png" alt="Pauta: la checklist que vive en tu escritorio"></a>
       <h3><a href="https://github.com/Ignacio-Aranda/pauta">Pauta</a></h3>
       <p>La checklist que vive en tu escritorio. Le escribes por Telegram, aparece en una pantalla táctil y la tachas con el dedo.</p>
       <p><code>ESP32-S3</code> <code>C++</code> <code>Telegram</code></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/Ignacio-Aranda/Ant-Farm-Idle"><img src="assets/ant-farm-idle.png" alt="Ant Farm Idle: un hormiguero en pixel art"></a>
       <h3><a href="https://github.com/Ignacio-Aranda/Ant-Farm-Idle">Ant Farm Idle</a></h3>
       <p>Un hormiguero en pixel art para una pantalla siempre encendida. Cada persona de tu grupo es una hormiga, y vive el tiempo real de tu ciudad.</p>
       <p><code>Python</code> <code>pygame</code> <code>Raspberry Pi</code></p>
     </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
